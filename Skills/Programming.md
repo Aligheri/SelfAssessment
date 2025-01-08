@@ -37,7 +37,7 @@
   - Variable *
   - Constant *
   - Scalar ~
-  - Literal
+  - Literal *
   - Expression *
   - Heap +
   - Function *
@@ -48,17 +48,17 @@
   - Event ~
   - Type *
   - Flag *
-  - Lexical scope
-  - Code block
-  - Conditions
+  - Lexical scope 
+  - Code block !
+  - Conditions !
   - Loops *
-  - Assignment
+  - Assignment ~
   - Regular expression *
   - Interface *
-  - Namespaces
-  - Call stack
-  - Naming conventions
-  - Coding conventions
+  - Namespaces !
+  - Call stack 
+  - Naming conventions *
+  - Coding conventions *
   - Camel case *
   - Snake case
   - Kebab case
@@ -132,9 +132,9 @@
   - JSON5 ~
   - YAML ~
 - Networking
-  - DNS
+  - DNS ~
   - CDN
-  - CORS
+  - CORS *
   - IPv4 ~
   - IPv6 ~
   - NAT
@@ -143,22 +143,22 @@
   - URI ~
 - Process and tools
   - Compiler !
-  - Just-in-time compilation
-  - Ahead-of-time compilation
+  - Just-in-time compilation ~
+  - Ahead-of-time compilation ~
   - Transpiler
   - Linter
   - Polyfill
-  - Interpreter
+  - Interpreter ~
   - Linker
   - Dynamic linking
   - Static linking *
   - Runtime *
   - Virtual machine *
   - Register-based VM
-  - Stack-based VM
+  - Stack-based VM 
   - Containerization *
   - Debugger !
-  - Tracing
+  - Tracing !
   - Garbage collection
   - Refactoring *
   - Code review *
@@ -167,7 +167,7 @@
   - git !
   - Github !
   - Docker !
-  - Kubernetes
+  - Kubernetes !
   - GCC
   - LLVM
 - Antipatterns
@@ -220,7 +220,7 @@
   - MacOS !
   - Windows ~
   - Real-time OS
-  - Embedded OS
+  - Embedded OS ~
 - Standards
   - ASCII !
   - Escape sequence

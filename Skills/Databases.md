@@ -20,7 +20,7 @@
   - Data control language (DCL)
   - Data definition language (DDL) *
   - Data manipulation language (DML)
-  - Data query language (DQL)
+  - Data query language (DQL) ~
 - Relational
   - Entity-Relationship Diagram *
   - Normal forms
@@ -28,11 +28,11 @@
   - Primary keys *
   - Foreign keys *
   - Transactions *
-  - Views
+  - Views ~
   - Subqueries ~
   - Stored procedures ~
   - SQL functions *
-  - Materialized views
+  - Materialized views ~
   - Replications ~
   - Virtualization *
 - SQL
@@ -66,8 +66,8 @@
   - INDEX *
   - UNIQUE *
   - GRANT
-  - REVOKE
-  - DENY
+  - REVOKE ~
+  - DENY ~
   - EXPLAIN
 - Engines
   - PostgreSQL  ~*
@@ -79,7 +79,7 @@
   - Rabbit
   - MongoDB ~
   - Memcached ~
-  - Riak
+  - Riak ~
   - DB2
   - SQLite ~
   - DynamoDB ~

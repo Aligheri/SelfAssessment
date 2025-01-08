@@ -14,14 +14,14 @@
   - Platform-agnostic ~
   - Transport-agnostic ~
   - Framework-agnostic ~
-  - Code coverage
+  - Code coverage ~
   - Cohesion
   - Coupling
   - Cyclomatic complexity
   - Reliability
   - Quality
   - Availability
-  - Flexibility
+  - Flexibility ~
   - Law of Demeter (LoD)
 - Application architecture
   - Isolation between layer !
@@ -45,17 +45,17 @@
   - E-R data modeling
   - Entity-relationship diagram
   - IDEF1X
-  - UML
+  - UML ~
   - Work breakdown structure
   - Budget estimation
   - Distributed systems
   - High-intensive computing
   - Load balancing
-  - Gateways
+  - Gateways ~
   - On-premises
   - IaaS
   - PaaS
-  - SaaS
+  - SaaS ~
   - FaaS clouds
   - Serverless
   - Vendor lock-in
@@ -73,10 +73,10 @@
   - Clouds ~
   - BPMN
   - Low-code
-  - No-code
+  - No-code ~
   - Metric
   - Metric abuse
-  - ACID
+  - ACID !
   - CAP theorem
   - Single source of truth (SSOT)
 - Enterprise architecture
@@ -85,7 +85,7 @@
   - Integration with subsystems
   - Enterprise vision
   - Enterprise capabilities
-  - Project scope
+  - Project scope !
   - Enterprise service bus
   - Service-oriented architecture
   - Microservices
