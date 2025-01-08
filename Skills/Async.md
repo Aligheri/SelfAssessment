@@ -1,11 +1,11 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop
-  - try..catch
+  - Event loop ~
+  - try..catch *
   - Non-blocking
-  - Async I/O
-  - Thread pool
+  - Async I/O 
+  - Thread pool * 
   - Pattern Reactor
   - CAS operations
   - epoll
@@ -14,13 +14,13 @@
   - Event ports
   - libuv
   - Race conditions
-  - Dead locks
+  - Dead locks !
   - Live locks
-  - Concurrent programming
-  - Parallel programming
+  - Concurrent programming *
+  - Parallel programming ~
   - Actor Model
-  - Thread
-  - Process
+  - Thread *
+  - Process ~
 - Async contracts
   - Callbacks ~
   - Callback-last-error-first
@@ -35,8 +35,8 @@
   - Event *
   - Coroutine
   - Goroutine
-  - Signal
-  - Stream
+  - Signal 
+  - Stream !
   - Chain of responsibility ~
   - Middleware
   - Locks ~
@@ -49,8 +49,8 @@
 - Async abstractions interfaces
   - EventEmitter
   - Observable/Observer !
-  - Readable
-  - Writable
+  - Readable ~
+  - Writable ~
   - Transform
   - Async Pool !
   - Async Queue
@@ -66,7 +66,7 @@
   - AbortSignal
   - Promise unhandled rejection
   - Promise double resolve
-  - Atomics
+  - Atomics *
   - High resolution clock
   - Callback hell
   - Promise hell
@@ -74,7 +74,7 @@
   - Error handling in async code
   - Better stack traces with return await
   - JSON streaming serialization
-  - AsyncLocalStorage
+  - AsyncLocalStorage ~
   - AsyncResource
 - Techniques
   - Async.js library

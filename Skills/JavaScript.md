@@ -44,7 +44,7 @@
   - Strict mode
   - Hoisting
   - delete *
-  - in
+  - in ~
   - super !
   - eval
   - static *
@@ -88,16 +88,16 @@
   - Function.prototype.call
   - Function.prototype.bind
   - Function.prototype.apply
-  - return
+  - return *
 - Data structures
   - Array *
   - Map ~
   - Set ~
   - WeakMap
   - WeakSet
-  - Typed arrays
+  - Typed arrays ~
   - Mixins
-  - Object.assign
+  - Object.assign ~
 - Standard classes and namespaces
   - Proxy ~
   - RegExp

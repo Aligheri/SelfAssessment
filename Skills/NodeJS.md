@@ -4,7 +4,7 @@
   - Strong and weak sides of node.js
   - Stateful and stateless servers
   - Nonblocking I/O and blocking code
-  - Event loop phases
+  - Event loop phases ~
   - Event loop microtasks and macrotasks
   - Garbage collection *
   - Node.js LTS schedule
@@ -22,7 +22,7 @@
   - Module-based permissions model
   - Isolation with modularity !
   - Dependency injection *
-  - DI containers
+  - DI containers ~
   - Coupling and cohesion
   - Framework agnostic approach
 - Environment
@@ -43,11 +43,11 @@
   - Worker threads ~
   - Performance hooks ~
   - Native fetch and nodejs/undici
-  - async_hooks
-  - AsyncLocalStorage
+  - async_hooks 
+  - AsyncLocalStorage ~
   - AsyncResource
   - Deprecated domain API !
-  - Node.js single executable
+  - Node.js single executable ~
   - SharedArrayBuffer
   - Module node:worker_threads
   - Module node:child_process
@@ -112,13 +112,13 @@
 - Error handling and debugging
   - Error
   - error.cause !
-  - error.code
+  - error.code ~
   - error.message !
-  - error.stack
-  - Error.captureStackTrace
+  - error.stack ~
+  - Error.captureStackTrace ~
   - How to avoid mixins
   - Uncaught exceptions
-  - Heap dump
+  - Heap dump 
   - Debugging tools ~
   - Flame graph ~
   - Memory leaks !
